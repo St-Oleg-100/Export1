@@ -8,4 +8,4 @@ Filled local text
 
 Life is not so easy, added new text in Branch!
 
-Resolve the conflict
+Resolve the conflict text will be in SAFARI
